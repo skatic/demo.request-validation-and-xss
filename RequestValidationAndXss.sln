@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestValidationAndXss", "RequestValidationAndXss.csproj", "{E5CF4CFE-0A4C-485C-8A94-4E676B41A864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CF4CFE-0A4C-485C-8A94-4E676B41A864}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CF4CFE-0A4C-485C-8A94-4E676B41A864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CF4CFE-0A4C-485C-8A94-4E676B41A864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F28AB3B-B705-4C7A-AE13-0F497777BA29}
+	EndGlobalSection
+EndGlobal
